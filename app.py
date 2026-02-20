@@ -41,7 +41,6 @@ if st.button("Analyze Emotion"):
         
         # Display Result
         st.success(f"Detected Emotion: **{emotion.upper()}**")
-        st.info("Analysis complete using Bigram TF-IDF features.")
     else:
         st.warning("⚠️ Please enter a sentence first!")
 
