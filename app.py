@@ -46,4 +46,3 @@ if st.button("Analyze Emotion"):
         st.warning("⚠️ Please enter a sentence first!")
 
 st.markdown("---")
-st.caption("Expandable Project: 4th Sem (Binary) -> 6th Sem (Multi-class Emotion)")
